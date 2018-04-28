@@ -1,0 +1,44 @@
+[
+  {
+    "parts": "04C 103 011 F",
+    "count": 190,
+    "store": "B1",
+    "year": 2009
+  },
+  {
+    "parts": "04C 103 011 S",
+    "count": 124,
+    "store": "B1",
+    "year": 2013
+  },
+  {
+    "parts": "04E 103 011 AA",
+    "count": 83,
+    "store": "B1",
+    "year": 2011
+  },
+  {
+    "parts": "04E 103 011 AM",
+    "count": 71,
+    "store": "B1",
+    "year": 2018
+  },
+  {
+    "parts": "04E 103 011 AL",
+    "count": 291,
+    "store": "B1",
+    "year": 2016
+  },
+  {
+    "parts": "04E 103 011 ED",
+    "count": 59,
+    "store": "B1",
+    "year": 2017
+  },
+  {
+    "parts": "05C 103 011 B",
+    "count": 266,
+    "store": "B1",
+    "year": 2013
+  }
+]
